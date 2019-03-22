@@ -11,6 +11,8 @@
   "version": "1.25.5",
   "dependencies": {
     "casper": "github:tryghost/Casper#2.9.6",
+    "london" : "github:tryghost/London#1.0.0",
+    "massively" : "github:tryghost/Massively#1.0.1",
     "ghost": "^2.18.2",
     "ghost-storage-adapter-s3": "^2.3.0",
     "mysql": "^2.14.1"
